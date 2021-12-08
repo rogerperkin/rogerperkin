@@ -1,5 +1,5 @@
 ## Hi I'm Roger 
-### Below are all my repositories for code I use for Network Automation, including Ansible, Python and much more.
+### Below are all my repositories for code I use for Network Automation, including Ansible, Python, Terraform and much more.
 
 <!--
 **rogerperkin/rogerperkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
