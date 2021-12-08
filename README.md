@@ -1,4 +1,4 @@
-## Hi I'm Roger Perkin, CCIE#50038 and a Technical Architect working in the UK 
+## Hi I'm Roger 
 ### Below are all my repositories for code I use for Network Automation, including Ansible, Python and much more.
 
 <!--
