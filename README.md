@@ -1,7 +1,7 @@
 ## Hi I'm Roger 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rogerperkin/)
 ### Below are all my repositories for code I use for Network Automation, including Ansible, Python, Terraform and much more.
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rogerperkin/)
 
 <!--
 **rogerperkin/rogerperkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
